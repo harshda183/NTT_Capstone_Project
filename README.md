@@ -36,3 +36,4 @@ It generates/overwrites `Box.hack` and `symbols.txt`.
 5. Capture a screenshot of the actual screen with the box visible.
 
 **Important:** HDL test screenshots and emulator screenshots must be captured from your own Nand2Tetris installation. They are not fabricated or included as if tests had been run here.
+
